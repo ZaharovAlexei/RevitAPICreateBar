@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type ="Application">
+		<Name>RevitAPICreateBar</Name>
+		<Assembly>"C:\Program Files\RevitAPITraining\RevitAPICreateBar.dll"</Assembly>
+		<AddInId>BF15A6E2-6593-46C4-A38A-68F278CD66E9</AddInId>
+		<FullClassName>RevitAPICreateBar.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		</AddIn>
+</RevitAddIns>
